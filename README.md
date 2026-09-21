@@ -14,3 +14,4 @@ COACHTECH 教材 Tutorial 7-2「制御構文 ハンズオン演習」で作成�
 
 ## 動作確認
 （**(http://localhost:8000/7-2-6_hands-on/practice/grade_calculator.php)にアクセスし、Web画面にて表示されることを確認しました。**）
+<img width="877" height="979" alt="image" src="https://github.com/user-attachments/assets/3b76d02c-1f69-4c38-bbc7-0ea9a0e194c1" />

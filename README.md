@@ -12,6 +12,9 @@ COACHTECH 教材 Tutorial 7-2「制御構文 ハンズオン演習」で作成�
 - （**関数の定義と呼び出し、count() などの配列関数**）
 - （**if・elseif・else を使った条件分岐**）
 
+## 詰まったポイントと解決方法
+- （**各学生の成績の処理や結果の出力で手こずりましたが、教材を参考に解決しました。**）
+
 ## 動作確認
 （**ローカルホストにアクセスし、Web画面にて表示されることを確認しました。**）
 <img width="877" height="979" alt="image" src="https://github.com/user-attachments/assets/3b76d02c-1f69-4c38-bbc7-0ea9a0e194c1" />
